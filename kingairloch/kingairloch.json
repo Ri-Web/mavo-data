@@ -611,7 +611,7 @@
 	"cottageIcons_ID4647": [
 		{
 			"similarPropertiesImg_ID4647": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/arrow_.png",
-			"similarPropertiesContent_ID4647": "Refresh Icon\nSaturday Change Over"
+			"similarPropertiesContent_ID4647": "Saturday Change "
 		},
 		{
 			"similarPropertiesImg_ID4647": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/sleeps.png",
@@ -664,6 +664,10 @@
 		{
 			"similarPropertiesImg_ID4647": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/deer.png",
 			"similarPropertiesContent_ID4647": "Red deer, pine martens, otters and sea birds"
+		},
+		{
+			"similarPropertiesImg_ID4647": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/iconmonstr-banknote-15-240.png",
+			"similarPropertiesContent_ID4647": "50% deposit. Remaining balance due 28 days prior to stay. "
 		}
 	],
 	"similarProperties_ID4647": [
@@ -2036,11 +2040,7 @@
 		},
 		{
 			"cottageHeoIconsImg_ID4647": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/towel.png",
-			"cottageHeoIconsContent_ID4647": "Linen & Towels"
-		},
-		{
-			"cottageHeoIconsImg_ID4647": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/computer.png",
-			"cottageHeoIconsContent_ID4647": "Digital Detox Meter"
+			"cottageHeoIconsContent_ID4647": "Linen & Towels provided"
 		},
 		{
 			"cottageHeoIconsImg_ID4647": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/deer.png",
