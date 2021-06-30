@@ -1144,7 +1144,7 @@
 	"cottageIcons_ID4559": [
 		{
 			"similarPropertiesImg_ID4559": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/sleeps.png",
-			"similarPropertiesContent_ID4559": "Two luxurious sea view rooms"
+			"similarPropertiesContent_ID4559": "One luxurious sea view room (additional rooms may also be available)"
 		},
 		{
 			"similarPropertiesImg_ID4559": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/cereals.png",
@@ -1168,11 +1168,11 @@
 		},
 		{
 			"similarPropertiesImg_ID4559": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/sign-out-option.png",
-			"similarPropertiesContent_ID4559": "Check out time is before 10.30am"
+			"similarPropertiesContent_ID4559": "Check out time is before 10.00am"
 		},
 		{
 			"similarPropertiesImg_ID4559": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/fork-plate-and-knife.png",
-			"similarPropertiesContent_ID4559": "Evening meals currently unavailable"
+			"similarPropertiesContent_ID4559": "Evening meals and packed lunches available"
 		},
 		{
 			"similarPropertiesImg_ID4559": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/kids.png",
@@ -1198,14 +1198,14 @@
 	"imageContentColImg_ID4559": "https://kingairlochnew.riweb.dev/wp-content/uploads/2021/05/kingairloch-house_external-09-scaled-1.jpg",
 	"bookingInfoHeading_ID4559": "Booking Information",
 	"bookingInfoBulletPoints1_ID4559": [
-		"The room rate includes breakfast served in the dining room. There’s a choice of cereals, porridge and cooked breakfast. A favourite is Kinairloch scrambled eggs and local smoked salmon.",
-		"Tea and coffee making facilities",
+		"The room rate includes breakfast served in the dining room. There’s a choice of cereals, porridge and cooked breakfast. A favourite is Kinairloch scrambled eggs and local smoked salmon. Evening meals and packed lunches are also available. ",
+		"Tea and coffee making facilities. ",
 		"Lismore Bedroom: Super-King sized bed and bathroom has a shower."
 	],
 	"bookingInfoBulletPoints2_ID4559": [
 		"Check in time is from 4pm-7pm",
 		"Check out time is before 10.30am",
-		"Evening meShared living room with open fire and flat screen TV\nals currently unavailable",
+		"Shared living room",
 		"Drying room available",
 		"Wi-fi available",
 		"Children welcome"
