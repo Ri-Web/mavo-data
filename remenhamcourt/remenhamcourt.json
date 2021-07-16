@@ -64,7 +64,7 @@
 	"getInTouchContent": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
 	"topSectionBgImage_ID9": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/07/Naive-Remenham-Court-17-scaled.jpeg",
 	"tsHeading54": "The House",
-	"topSectionBgImage_ID54": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/06/IMG_-44.jpg",
+	"topSectionBgImage_ID54": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/07/Naive-Remenham-Court-17-scaled.jpeg",
 	"homeHeading254": "Heading",
 	"homeContent54": "Text",
 	"homeSection4Img154": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/06/placeholder-1024x683-1.png",
@@ -73,10 +73,10 @@
 	"homeSection4Heading54": "Heading",
 	"homeSection4Text54": "Text",
 	"getInTouchHeadingAllura54": "touch",
-	"section2Content54": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+	"section2Content54": "Introducing Remenham Court\nAn historic private venue on the banks of the River Thames",
 	"section2BgImage54": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/06/banner-blue.svg",
-	"section3Content54": "Beautiful riversides location, proximity to London.",
-	"section4BgImage54": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/06/IMG_-50.jpg",
+	"section3Content54": "A unique riverside venue offering flexible entertaining space",
+	"section4BgImage54": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/07/Naive-Remenham-Court-34-scaled.jpeg",
 	"AlternaingCol2": [
 		{
 			"Section5Heading254": "The Hall",
@@ -182,15 +182,15 @@
 	"section3Heading320": "Contact Details",
 	"AlternaingCol254": [
 		{
-			"Section5Heading254": "The Hall",
-			"Section5Content54": "<p><span style=\"white-space: pre-wrap;\">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</span></p>",
+			"Section5Heading254": "The Main House",
+			"Section5Content54": "<p><span style=\"white-space: pre-wrap;\">Fully refurbished in 2021, the main house offers a flexible and welcoming entertaining space. The house can accomodate a range of options for drinks receptions, intimate dining and relaxing evenings as well as larger scale events.</span></p>",
 			"Section5BgImg54": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/06/IMG_-52.jpg",
 			"AlternaingCol2Link54": "See Gallery",
 			"AlternaingCol2LinkText54": "#galleryScroll"
 		},
 		{
-			"Section5Heading254": "The Main House",
-			"Section5Content54": "<p><span style=\"white-space: pre-wrap;\">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</span></p>",
+			"Section5Heading254": "The Hall",
+			"Section5Content54": "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 0.0001pt; font-size: medium; font-family: 'Open Sans', sans-serif; color: #525252; letter-spacing: normal;\"><span lang=\"EN-US\" style=\"font-family: AppleSystemUIFont; color: #353535;\">For larger events, wedding receptions and ceremonies the Hall will stun your guests with<span style=\"background-color: yellow; background-position: initial initial; background-repeat: initial initial;\">&hellip;.</span></span></p>",
 			"Section5BgImg54": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/06/IMG_-51.jpg",
 			"AlternaingCol2Link54": "See Gallery",
 			"AlternaingCol2LinkText54": "#galleryScroll"
