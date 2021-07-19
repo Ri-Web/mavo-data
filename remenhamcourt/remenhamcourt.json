@@ -363,5 +363,14 @@
 	"homeHeadingAllura203": "Heading",
 	"homeSubHeading203": "Sub Heading",
 	"topSectionBgImage_ID203": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/06/IMG_-33.jpg",
-	"imageTest": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/06/IMG_-33.jpg"
+	"imageTest": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/06/IMG_-33.jpg",
+	"ts2Heading196": "Corporate Events and Private Parties",
+	"topSection2BgImage_ID196": "https://remenhamcourt.riweb.dev/wp-content/uploads/2021/07/VIP-DINING-e1584638247372.jpg",
+	"weddingsTextImageRepeater196": [
+		{
+			"section2Heading196": "Corporate Events & Private Parties",
+			"section2Content196": "<p>Remenham Court with its versative accomodation, excellent transport links and range of options for meetings and breakout sessions as well as entertaining clients and colleages provides a rare and memorable venue for any corporate entertaining.&nbsp;</p>\n<p>Birthday parties, anniversaries or simply an escape with friends and family are all easily accomodated at Remenham Court with a wide range of food and entertainment options for all ages and tastes.&nbsp;</p>\n<p>Please contact us to find out more.</p>",
+			"section2BgImage196": "/wp-content/uploads/2021/06/placeholder-1024x683-1.png"
+		}
+	]
 }
