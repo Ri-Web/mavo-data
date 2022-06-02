@@ -1144,15 +1144,7 @@
 			"whiteTwoColButtonText": "View Our History"
 		}
 	],
-	"homeOneWhiteBox_ID9": [
-		{
-			"whiteTwoColImage_ID9": "https://kingairloch.co.uk/wp-content/uploads/2021/05/kingairloch_sea_view.jpg",
-			"whiteTwoColHeading_ID9": "History",
-			"whiteTwoColContent_ID9": "At Kingairloch we are always investing in the future of the estate; find out more about past projects and the history of the estate.",
-			"whiteTwoColButtonText": "View Our History",
-			"whiteTwoColButton_ID9": "https://kingairloch.co.uk/history/"
-		}
-	],
+	"homeOneWhiteBox_ID9": [],
 	"checkAvailabilityButton_ID4580": "#",
 	"topSectionHeader_ID4559": "Highland hospitality at its best; a luxurious B&B with views of Loch Linnhe and dramatic mountains.",
 	"homeTwoWhiteBox_ID4559": [
