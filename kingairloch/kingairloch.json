@@ -1560,7 +1560,7 @@
 		},
 		{
 			"imageContentColImg_ID4786": "https://kingairloch.co.uk/wp-content/uploads/2021/05/guests-relaxing-in-kingairloch-house.jpg",
-			"imageWithContent_ID4786": "<h2 style=\"margin-bottom: 14px; line-height: 1.3em; overflow-wrap: break-word; font-size: 30px; font-family: 'David Libre', serif; color: #333333; background-color: #ffffff;\">Accommodation</h2>\n<p style=\"border: 0px; vertical-align: baseline; font-size: 18px; overflow-wrap: break-word; color: #444444; line-height: 1.66em; font-family: Hind; letter-spacing: normal; background-color: #ffffff;\">Guests can choose to stay in any of our self catering cottages (keep link to self catering page) which are located throughout the whole estate.</p>"
+			"imageWithContent_ID4786": "<h2 style=\"margin-bottom: 14px; line-height: 1.3em; overflow-wrap: break-word; font-size: 30px; font-family: 'David Libre', serif; color: #333333; background-color: #ffffff;\">Accommodation</h2>\n<p style=\"border: 0px; vertical-align: baseline; font-size: 18px; overflow-wrap: break-word; color: #444444; line-height: 1.66em; font-family: Hind; letter-spacing: normal; background-color: #ffffff;\">Guests can choose to stay in any of our <a href=\"../../../self-catering\">self catering cottages</a> which are located throughout the whole estate.</p>"
 		},
 		{
 			"imageContentColImg_ID4786": "https://kingairloch.co.uk/wp-content/uploads/2021/05/deer-stalking.jpg",
