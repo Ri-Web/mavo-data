@@ -2006,10 +2006,6 @@
 		{
 			"cottageHeoIconsImg_ID4645": "https://kingairloch.co.uk/wp-content/uploads/2021/05/deer.png",
 			"cottageHeoIconsContent_ID4645": "Wildlife Hightlights"
-		},
-		{
-			"cottageHeoIconsImg_ID4645": "/wp-content/uploads/2022/11/wifi.png",
-			"cottageHeoIconsContent_ID4645": "Complimentary WiFi"
 		}
 	],
 	"cottageHeoIcons_ID4647": [
@@ -2094,6 +2090,10 @@
 		{
 			"cottageHeoIconsImg_ID4649": "https://kingairloch.co.uk/wp-content/uploads/2021/05/mountain-summit.png",
 			"cottageHeoIconsContent_ID4649": "Mountainous views"
+		},
+		{
+			"cottageHeoIconsImg_ID4649": "/wp-content/uploads/2022/11/wifi.png",
+			"cottageHeoIconsContent_ID4649": "Complimentary WiFi"
 		}
 	],
 	"cottageHeoIcons_ID4654": [
