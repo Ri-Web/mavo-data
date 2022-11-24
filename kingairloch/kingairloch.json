@@ -1876,6 +1876,10 @@
 		{
 			"cottageHeoIconsImg_ID4639": "https://kingairloch.co.uk/wp-content/uploads/2021/05/towel.png",
 			"cottageHeoIconsContent_ID4639": "Linen & Towels provided"
+		},
+		{
+			"cottageHeoIconsImg_ID4639": "/wp-content/uploads/2022/11/wifi.png",
+			"cottageHeoIconsContent_ID4639": "Complimentary WiFi"
 		}
 	],
 	"cottageHeoIcons_ID4641": [
@@ -2006,10 +2010,6 @@
 		{
 			"cottageHeoIconsImg_ID4645": "https://kingairloch.co.uk/wp-content/uploads/2021/05/deer.png",
 			"cottageHeoIconsContent_ID4645": "Wildlife Hightlights"
-		},
-		{
-			"cottageHeoIconsImg_ID4645": "/wp-content/uploads/2022/11/wifi.png",
-			"cottageHeoIconsContent_ID4645": "Complimentary WiFi"
 		}
 	],
 	"cottageHeoIcons_ID4647": [
