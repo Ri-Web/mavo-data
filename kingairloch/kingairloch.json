@@ -403,10 +403,6 @@
 		{
 			"similarPropertiesImg_ID4641": "https://kingairloch.co.uk/wp-content/uploads/2021/05/iconmonstr-banknote-15-240.png",
 			"similarPropertiesContent_ID4641": "50% deposit. Remaining balance due 28 days prior to stay. "
-		},
-		{
-			"similarPropertiesImg_ID4641": "/wp-content/uploads/2022/11/wifi.png",
-			"similarPropertiesContent_ID4641": "Complimentary WiFi"
 		}
 	],
 	"similarProperties_ID4641": [
@@ -680,6 +676,10 @@
 		{
 			"similarPropertiesImg_ID4647": "https://kingairloch.co.uk/wp-content/uploads/2021/05/iconmonstr-banknote-15-240.png",
 			"similarPropertiesContent_ID4647": "50% deposit. Remaining balance due 28 days prior to stay. "
+		},
+		{
+			"similarPropertiesImg_ID4647": "/wp-content/uploads/2022/11/wifi.png",
+			"similarPropertiesContent_ID4647": "Complimentary WiFi"
 		}
 	],
 	"similarProperties_ID4647": [
