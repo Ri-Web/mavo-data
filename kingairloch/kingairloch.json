@@ -94,10 +94,6 @@
 		{
 			"homeHeroBtns": "#scroll",
 			"homeHeroBtnTxt": "Discover More"
-		},
-		{
-			"homeHeroBtns": "https://secure.supercontrol.co.uk/availability/availability_search.asp?startdate=&numbernights=7&datevar=0&numberpeople=0&Submit=Search+availability&nodate=0&ownerID=1030&special=&siteID=11437&managerID=&map=&orderby=#pos_results",
-			"homeHeroBtnTxt": "Check Availability"
 		}
 	],
 	"slick-slide00": [
